@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class Quiz{
+public class FourFunctionCalculator{
 public static void main (String args[]){
 int counter = 0;
 double total = 0,answer,mtotal = 1;
